@@ -30,7 +30,7 @@ Bermuda,BMU,"Unemployment, total (% of total labor force) (modeled ILO estimate)
 Bolivia,BOL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,3.111,3.498,3.655,3.519,3.682,7.903,5.089,3.552,3.024,3.091
 Brazil,BRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,8.538,11.58,12.792,12.329,11.936,13.697,13.158,9.231,7.947,7.634
 Barbados,BRB,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,9.803,8.247,8.622,8.322,8.412,9.777,9.433,8.365,7.878,7.529
-Brunei Darussalam,BRN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,7.726,8.574,9.316,8.7,6.6,7.409,4.905,5.191,5.183,5.144
+Brunei,BRN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,7.726,8.574,9.316,8.7,6.6,7.409,4.905,5.191,5.183,5.144
 Bhutan,BTN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2.45,2.705,3.016,3.35,2.72,5.03,4.803,5.947,3.126,2.856
 Botswana,BWA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,18.93,19.329,19.664,19.681,20.094,21.017,23.106,23.615,23.381,23.138
 Central African Republic,CAF,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,5.477,5.491,5.534,5.517,5.607,6.196,6.375,5.956,5.877,5.899
@@ -42,7 +42,7 @@ Chile,CHL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",
 China,CHN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,4.65,4.56,4.47,4.31,4.56,5,4.55,4.98,4.67,4.571
 Cote d'Ivoire,CIV,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2.579,1.896,3.272,2.85,2.401,2.584,2.63,2.306,2.27,2.288
 Cameroon,CMR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,3.518,3.528,3.568,3.601,3.622,3.87,3.973,3.653,3.613,3.518
-"Congo, Dem. Rep.",COD,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,4.439,4.521,4.601,4.618,4.591,5.345,5.28,4.522,4.484,4.556
+"Congo (the Democratic Republic of the)",COD,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,4.439,4.521,4.601,4.618,4.591,5.345,5.28,4.522,4.484,4.556
 "Congo, Rep.",COG,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,19.978,20.223,20.611,20.701,20.392,22.198,21.96,20.108,19.898,19.694
 Colombia,COL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,8.572,8.922,9.086,9.36,10.28,15.983,13.898,10.547,9.594,9.608
 Comoros,COM,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,4.121,4.104,4.03,3.942,3.934,4.471,4.394,3.816,3.776,3.875
@@ -50,7 +50,7 @@ Cabo Verde,CPV,"Unemployment, total (% of total labor force) (modeled ILO estima
 Costa Rica,CRI,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,8.415,8.085,7.729,9.01,10.807,16.432,15.139,11.325,8.325,7.848
 Caribbean small states,CSS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,8.197331467,8.498719006,8.220608871,8.422285556,8.162114305,9.86550042,9.538943393,8.388552353,7.821884021,7.423938916
 Cuba,CUB,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2.4,2,1.7,1.7,1.705,2.24,2.116,1.82,1.719,1.53
-Curacao,CUW,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,,,,,,,,,,
+Curaçao,CUW,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,,,,,,,,,,
 Cayman Islands,CYM,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,,,,,,,,,,
 Cyprus,CYP,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,15.026,13.006,11.155,8.504,7.155,7.755,7.513,6.806,6.098,5.602
 Czechia,CZE,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,5.048,3.952,2.893,2.246,2.015,2.55,2.803,2.224,2.579,2.506
@@ -121,14 +121,14 @@ Jordan,JOR,"Unemployment, total (% of total labor force) (modeled ILO estimate)"
 Japan,JPN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,3.385,3.132,2.822,2.467,2.351,2.809,2.828,2.6,2.6,2.563
 Kazakhstan,KAZ,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,4.93,4.96,4.9,4.85,4.8,4.89,5.546,4.86,4.821,4.794
 Kenya,KEN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2.762,2.757,3.541,4.284,5.014,5.619,5.693,5.707,5.567,5.434
-Kyrgyz Republic,KGZ,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,3.338,3.474,3.57,3.67,4.295,4.63,4.096,4.043,3.991,3.289
+Kyrgyzstan,KGZ,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,3.338,3.474,3.57,3.67,4.295,4.63,4.096,4.043,3.991,3.289
 Cambodia,KHM,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,0.393,0.716,0.141,0.13,0.119,0.172,0.396,0.231,0.225,0.27
 Kiribati,KIR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,,,,,,,,,,
 St. Kitts and Nevis,KNA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,,,,,,,,,,
 "Korea, Rep.",KOR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,3.546,3.65,3.653,3.824,3.746,3.931,3.639,2.857,2.675,2.604
 Kuwait,KWT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2.2,2.16,2.227,2.204,2.251,3.557,3.002,2.174,2.127,2.144
 Latin America & Caribbean (excluding high income),LAC,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,6.676731992,7.890432825,8.217284203,8.062001874,8.090688681,10.21771636,9.180661029,6.863306501,6.101589843,6.141125532
-Lao PDR,LAO,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2.494,2.881,3.268,2.9,2.537,2.361,2.066,1.209,1.188,1.218
+Laos,LAO,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2.494,2.881,3.268,2.9,2.537,2.361,2.066,1.209,1.188,1.218
 Lebanon,LBN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,9.306,9.786,10.251,10.745,11.301,13.284,12.669,11.6,11.543,
 Liberia,LBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2.557,3.081,3.066,3.056,3.068,4.109,3.845,2.977,2.933,2.882
 Libya,LBY,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,19.676,19.522,19.02,18.836,19.05,19.613,19.641,19.282,18.753,18.615
@@ -156,7 +156,7 @@ Maldives,MDV,"Unemployment, total (% of total labor force) (modeled ILO estimate
 Mexico,MEX,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,4.311,3.853,3.419,3.275,3.477,4.44,4.019,3.256,2.765,2.711
 Marshall Islands,MHL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,,,,,,,,,,
 Middle income,MIC,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,5.955509034,6.036806875,6.08090306,6.034827151,5.886047408,6.73531873,6.232037254,5.484459016,5.071622525,5.037559686
-North Macedonia,MKD,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,26.395,24.312,22.857,21.208,17.414,16.575,15.801,14.476,13.174,13.417
+Macedonia,MKD,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,26.395,24.312,22.857,21.208,17.414,16.575,15.801,14.476,13.174,13.417
 Mali,MLI,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,1.401,1.367,1.494,1.62,3.29,3.528,3.966,2.387,2.956,3.06
 Malta,MLT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,5.389,4.687,4.002,3.658,3.616,4.347,3.394,2.921,3.11,2.703
 Myanmar,MMR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,0.766,1.058,1.356,0.767,0.407,1.476,4.34,3.057,3.032,3.032
@@ -201,7 +201,7 @@ Post-demographic dividend,PST,"Unemployment, total (% of total labor force) (mod
 French Polynesia,PYF,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,11.789,11.715,11.573,11.572,11.565,12.951,12.531,11.888,11.749,11.75
 Qatar,QAT,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,0.17,0.15,0.14,0.11,0.1,0.14,0.14,0.13,0.13,0.126
 Romania,ROU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,6.812,5.901,4.927,4.187,3.912,5.035,5.59,5.614,5.589,5.379
-Russian Federation,RUS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,5.615,5.591,5.238,4.871,4.513,5.62,4.749,3.867,3.076,2.527
+Russia,RUS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,5.615,5.591,5.238,4.871,4.513,5.62,4.749,3.867,3.076,2.527
 Rwanda,RWA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,11.838,11.801,11.875,10.759,11.236,11.829,15.775,15.084,12.352,11.994
 South Asia,SAS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,7.275209619,7.242575684,7.242855312,7.277323619,6.298187323,7.61279542,6.314917441,4.869393034,4.305251766,4.34169478
 Saudi Arabia,SAU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,5.6,5.6,5.89,6.029,5.636,7.66,6.621,5.589,4.008,3.896

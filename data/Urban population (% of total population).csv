@@ -30,7 +30,7 @@ Bermuda,BMU,Urban population (% of total population),SP.URB.TOTL.IN.ZS,100,100,1
 Bolivia,BOL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,70.123,70.475,70.83,71.186,71.545
 Brazil,BRA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,87.073,87.317,87.555,87.788,88.016
 Barbados,BRB,Urban population (% of total population),SP.URB.TOTL.IN.ZS,31.191,31.246,31.324,31.425,31.548
-Brunei Darussalam,BRN,Urban population (% of total population),SP.URB.TOTL.IN.ZS,78.25,78.554,78.854,79.149,79.439
+Brunei,BRN,Urban population (% of total population),SP.URB.TOTL.IN.ZS,78.25,78.554,78.854,79.149,79.439
 Bhutan,BTN,Urban population (% of total population),SP.URB.TOTL.IN.ZS,42.316,43.008,43.686,44.35,45
 Botswana,BWA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,70.877,71.56,72.224,72.867,73.49
 Central African Republic,CAF,Urban population (% of total population),SP.URB.TOTL.IN.ZS,42.198,42.648,43.12,43.614,44.13
@@ -42,7 +42,7 @@ Chile,CHL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,87.727,87.8
 China,CHN,Urban population (% of total population),SP.URB.TOTL.IN.ZS,61.428,62.512,63.56,64.57,65.544
 Cote d'Ivoire,CIV,Urban population (% of total population),SP.URB.TOTL.IN.ZS,51.706,52.18,52.661,53.149,53.644
 Cameroon,CMR,Urban population (% of total population),SP.URB.TOTL.IN.ZS,57.56,58.148,58.733,59.315,59.892
-"Congo, Dem. Rep.",COD,Urban population (% of total population),SP.URB.TOTL.IN.ZS,45.638,46.235,46.837,47.444,48.055
+"Congo (the Democratic Republic of the)",COD,Urban population (% of total population),SP.URB.TOTL.IN.ZS,45.638,46.235,46.837,47.444,48.055
 "Congo, Rep.",COG,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.829,68.283,68.736,69.188,69.638
 Colombia,COL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,81.425,81.74,82.05,82.354,82.652
 Comoros,COM,Urban population (% of total population),SP.URB.TOTL.IN.ZS,29.38,29.613,29.864,30.132,30.418
@@ -50,7 +50,7 @@ Cabo Verde,CPV,Urban population (% of total population),SP.URB.TOTL.IN.ZS,66.652
 Costa Rica,CRI,Urban population (% of total population),SP.URB.TOTL.IN.ZS,80.771,81.425,82.042,82.622,83.167
 Caribbean small states,CSS,Urban population (% of total population),SP.URB.TOTL.IN.ZS,48.47893841,48.55212102,48.65293727,48.78791399,48.93938493
 Cuba,CUB,Urban population (% of total population),SP.URB.TOTL.IN.ZS,77.194,77.292,77.401,77.523,77.657
-Curacao,CUW,Urban population (% of total population),SP.URB.TOTL.IN.ZS,89.062,89.038,89.025,89.023,89.033
+Curaçao,CUW,Urban population (% of total population),SP.URB.TOTL.IN.ZS,89.062,89.038,89.025,89.023,89.033
 Cayman Islands,CYM,Urban population (% of total population),SP.URB.TOTL.IN.ZS,100,100,100,100,100
 Cyprus,CYP,Urban population (% of total population),SP.URB.TOTL.IN.ZS,66.821,66.856,66.911,66.987,67.082
 Czechia,CZE,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.061,74.214,74.377,74.552,74.738
@@ -121,14 +121,14 @@ Jordan,JOR,Urban population (% of total population),SP.URB.TOTL.IN.ZS,91.418,91.
 Japan,JPN,Urban population (% of total population),SP.URB.TOTL.IN.ZS,91.782,91.867,91.955,92.043,92.134
 Kazakhstan,KAZ,Urban population (% of total population),SP.URB.TOTL.IN.ZS,57.671,57.821,57.99,58.179,58.387
 Kenya,KEN,Urban population (% of total population),SP.URB.TOTL.IN.ZS,27.995,28.493,29.002,29.52,30.049
-Kyrgyz Republic,KGZ,Urban population (% of total population),SP.URB.TOTL.IN.ZS,36.856,37.146,37.461,37.801,38.166
+Kyrgyzstan,KGZ,Urban population (% of total population),SP.URB.TOTL.IN.ZS,36.856,37.146,37.461,37.801,38.166
 Cambodia,KHM,Urban population (% of total population),SP.URB.TOTL.IN.ZS,24.232,24.668,25.114,25.57,26.035
 Kiribati,KIR,Urban population (% of total population),SP.URB.TOTL.IN.ZS,55.594,56.335,57.058,57.762,58.448
 St. Kitts and Nevis,KNA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,30.843,30.906,30.991,31.096,31.221
 "Korea, Rep.",KOR,Urban population (% of total population),SP.URB.TOTL.IN.ZS,81.414,81.414,81.427,81.456,81.498
 Kuwait,KWT,Urban population (% of total population),SP.URB.TOTL.IN.ZS,100,100,100,100,100
 Latin America & Caribbean (excluding high income),LAC,Urban population (% of total population),SP.URB.TOTL.IN.ZS,80.62999455,80.88943146,81.14426105,81.39532105,81.64545056
-Lao PDR,LAO,Urban population (% of total population),SP.URB.TOTL.IN.ZS,36.29,36.939,37.592,38.247,38.906
+Laos,LAO,Urban population (% of total population),SP.URB.TOTL.IN.ZS,36.29,36.939,37.592,38.247,38.906
 Lebanon,LBN,Urban population (% of total population),SP.URB.TOTL.IN.ZS,88.925,89.093,89.262,89.432,89.603
 Liberia,LBR,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.089,52.573,53.065,53.567,54.077
 Libya,LBY,Urban population (% of total population),SP.URB.TOTL.IN.ZS,80.691,80.994,81.302,81.606,81.907
@@ -156,7 +156,7 @@ Maldives,MDV,Urban population (% of total population),SP.URB.TOTL.IN.ZS,40.669,4
 Mexico,MEX,Urban population (% of total population),SP.URB.TOTL.IN.ZS,80.731,81.016,81.3,81.582,81.862
 Marshall Islands,MHL,Urban population (% of total population),SP.URB.TOTL.IN.ZS,77.794,78.162,78.52,78.868,79.208
 Middle income,MIC,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.48275842,53.0542233,53.61436344,54.16428104,54.71415822
-North Macedonia,MKD,Urban population (% of total population),SP.URB.TOTL.IN.ZS,58.482,58.786,59.118,59.479,59.868
+Macedonia,MKD,Urban population (% of total population),SP.URB.TOTL.IN.ZS,58.482,58.786,59.118,59.479,59.868
 Mali,MLI,Urban population (% of total population),SP.URB.TOTL.IN.ZS,43.909,44.677,45.437,46.189,46.934
 Malta,MLT,Urban population (% of total population),SP.URB.TOTL.IN.ZS,94.744,94.81,94.875,94.941,95.006
 Myanmar,MMR,Urban population (% of total population),SP.URB.TOTL.IN.ZS,31.141,31.448,31.771,32.112,32.47
@@ -201,7 +201,7 @@ Post-demographic dividend,PST,Urban population (% of total population),SP.URB.TO
 French Polynesia,PYF,Urban population (% of total population),SP.URB.TOTL.IN.ZS,61.975,62.066,62.17,62.288,62.42
 Qatar,QAT,Urban population (% of total population),SP.URB.TOTL.IN.ZS,99.235,99.278,99.318,99.354,99.387
 Romania,ROU,Urban population (% of total population),SP.URB.TOTL.IN.ZS,54.194,54.329,54.489,54.672,54.88
-Russian Federation,RUS,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.754,74.934,75.126,75.331,75.548
+Russia,RUS,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.754,74.934,75.126,75.331,75.548
 Rwanda,RWA,Urban population (% of total population),SP.URB.TOTL.IN.ZS,17.432,17.568,17.721,17.892,18.081
 South Asia,SAS,Urban population (% of total population),SP.URB.TOTL.IN.ZS,34.78915598,35.27937068,35.78532076,36.30768556,36.83968844
 Saudi Arabia,SAU,Urban population (% of total population),SP.URB.TOTL.IN.ZS,84.287,84.508,84.729,84.95,85.171

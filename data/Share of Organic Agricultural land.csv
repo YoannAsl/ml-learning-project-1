@@ -395,18 +395,18 @@ RL,Land Use,188,Costa Rica,5110,Area,6672,Agriculture area certified organic,202
 RL,Land Use,188,Costa Rica,5110,Area,6672,Agriculture area certified organic,2021,2021,1000 ha,10.2996,A,Official figure
 RL,Land Use,188,Costa Rica,5110,Area,6672,Agriculture area certified organic,2022,2022,1000 ha,11.2425,A,Official figure
 RL,Land Use,188,Costa Rica,5110,Area,6672,Agriculture area certified organic,2023,2023,1000 ha,10.22,A,Official figure
-RL,Land Use,384,Côte d'Ivoire,5110,Area,6671,Agriculture area under organic agric.,2020,2020,1000 ha,79.12,I,Value imputed by a receiving agency
+RL,Land Use,384,Ivory Coast,5110,Area,6671,Agriculture area under organic agric.,2020,2020,1000 ha,79.12,I,Value imputed by a receiving agency
 RL,Land Use,214,Dominican Republic,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2020,2020,%,4.65,E,Estimated value
-RL,Land Use,384,Côte d'Ivoire,5110,Area,6671,Agriculture area under organic agric.,2021,2021,1000 ha,78.7827,I,Value imputed by a receiving agency
+RL,Land Use,384,Ivory Coast,5110,Area,6671,Agriculture area under organic agric.,2021,2021,1000 ha,78.7827,I,Value imputed by a receiving agency
 RL,Land Use,196,Cyprus,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2020,2020,%,4.64,A,Official figure
-RL,Land Use,384,Côte d'Ivoire,5110,Area,6671,Agriculture area under organic agric.,2022,2022,1000 ha,78.7827,I,Value imputed by a receiving agency
+RL,Land Use,384,Ivory Coast,5110,Area,6671,Agriculture area under organic agric.,2022,2022,1000 ha,78.7827,I,Value imputed by a receiving agency
 RL,Land Use,214,Dominican Republic,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2021,2021,%,4.64,E,Estimated value
-RL,Land Use,384,Côte d'Ivoire,5110,Area,6671,Agriculture area under organic agric.,2023,2023,1000 ha,104.2278,I,Value imputed by a receiving agency
+RL,Land Use,384,Ivory Coast,5110,Area,6671,Agriculture area under organic agric.,2023,2023,1000 ha,104.2278,I,Value imputed by a receiving agency
 RL,Land Use,442,Luxembourg,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2020,2020,%,4.63,A,Official figure
-RL,Land Use,384,Côte d'Ivoire,5110,Area,6672,Agriculture area certified organic,2020,2020,1000 ha,79.09,I,Value imputed by a receiving agency
-RL,Land Use,384,Côte d'Ivoire,5110,Area,6672,Agriculture area certified organic,2021,2021,1000 ha,78.3587,I,Value imputed by a receiving agency
-RL,Land Use,384,Côte d'Ivoire,5110,Area,6672,Agriculture area certified organic,2022,2022,1000 ha,78.3587,I,Value imputed by a receiving agency
-RL,Land Use,384,Côte d'Ivoire,5110,Area,6672,Agriculture area certified organic,2023,2023,1000 ha,104.1918,I,Value imputed by a receiving agency
+RL,Land Use,384,Ivory Coast,5110,Area,6672,Agriculture area certified organic,2020,2020,1000 ha,79.09,I,Value imputed by a receiving agency
+RL,Land Use,384,Ivory Coast,5110,Area,6672,Agriculture area certified organic,2021,2021,1000 ha,78.3587,I,Value imputed by a receiving agency
+RL,Land Use,384,Ivory Coast,5110,Area,6672,Agriculture area certified organic,2022,2022,1000 ha,78.3587,I,Value imputed by a receiving agency
+RL,Land Use,384,Ivory Coast,5110,Area,6672,Agriculture area certified organic,2023,2023,1000 ha,104.1918,I,Value imputed by a receiving agency
 RL,Land Use,191,Croatia,5110,Area,6671,Agriculture area under organic agric.,2020,2020,1000 ha,108.6,A,Official figure
 RL,Land Use,578,Norway,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2020,2020,%,4.58,A,Official figure
 RL,Land Use,191,Croatia,5110,Area,6671,Agriculture area under organic agric.,2021,2021,1000 ha,121.9,A,Official figure
@@ -994,7 +994,7 @@ RL,Land Use,438,Liechtenstein,5110,Area,6672,Agriculture area certified organic,
 RL,Land Use,438,Liechtenstein,5110,Area,6672,Agriculture area certified organic,2022,2022,1000 ha,1.423,I,Value imputed by a receiving agency
 RL,Land Use,438,Liechtenstein,5110,Area,6672,Agriculture area certified organic,2023,2023,1000 ha,1.5742,I,Value imputed by a receiving agency
 RL,Land Use,440,Lithuania,5110,Area,6671,Agriculture area under organic agric.,2020,2020,1000 ha,235.5,A,Official figure
-RL,Land Use,807,North Macedonia,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2022,2022,%,0.69,E,Estimated value
+RL,Land Use,807,Macedonia,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2022,2022,%,0.69,E,Estimated value
 RL,Land Use,440,Lithuania,5110,Area,6671,Agriculture area under organic agric.,2021,2021,1000 ha,261.8,A,Official figure
 RL,Land Use,764,Thailand,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2020,2020,%,0.69,E,Estimated value
 RL,Land Use,440,Lithuania,5110,Area,6671,Agriculture area under organic agric.,2022,2022,1000 ha,271.3,A,Official figure
@@ -1006,7 +1006,7 @@ RL,Land Use,440,Lithuania,5110,Area,6672,Agriculture area certified organic,2021
 RL,Land Use,440,Lithuania,5110,Area,6672,Agriculture area certified organic,2022,2022,1000 ha,209.9,A,Official figure
 RL,Land Use,440,Lithuania,5110,Area,6672,Agriculture area certified organic,2023,2023,1000 ha,199,A,Official figure
 RL,Land Use,442,Luxembourg,5110,Area,6671,Agriculture area under organic agric.,2020,2020,1000 ha,6.123,A,Official figure
-RL,Land Use,807,North Macedonia,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2023,2023,%,0.67,A,Official figure
+RL,Land Use,807,Macedonia,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2023,2023,%,0.67,A,Official figure
 RL,Land Use,442,Luxembourg,5110,Area,6671,Agriculture area under organic agric.,2021,2021,1000 ha,6.894,A,Official figure
 RL,Land Use,159,China,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2023,2023,%,0.66,E,Estimated value
 RL,Land Use,442,Luxembourg,5110,Area,6671,Agriculture area under organic agric.,2022,2022,1000 ha,8.256,A,Official figure
@@ -1032,7 +1032,7 @@ RL,Land Use,450,Madagascar,5110,Area,6672,Agriculture area certified organic,202
 RL,Land Use,454,Malawi,5110,Area,6671,Agriculture area under organic agric.,2020,2020,1000 ha,0.232,I,Value imputed by a receiving agency
 RL,Land Use,404,Kenya,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2022,2022,%,0.62,E,Estimated value
 RL,Land Use,454,Malawi,5110,Area,6671,Agriculture area under organic agric.,2021,2021,1000 ha,0.3242,I,Value imputed by a receiving agency
-RL,Land Use,807,North Macedonia,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2021,2021,%,0.62,A,Official figure
+RL,Land Use,807,Macedonia,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2021,2021,%,0.62,A,Official figure
 RL,Land Use,454,Malawi,5110,Area,6671,Agriculture area under organic agric.,2022,2022,1000 ha,0.3242,I,Value imputed by a receiving agency
 RL,Land Use,231,Ethiopia,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2020,2020,%,0.61,E,Estimated value
 RL,Land Use,454,Malawi,5110,Area,6671,Agriculture area under organic agric.,2023,2023,1000 ha,20.734,I,Value imputed by a receiving agency
@@ -1194,7 +1194,7 @@ RL,Land Use,516,Namibia,5110,Area,6672,Agriculture area certified organic,2023,2
 RL,Land Use,524,Nepal,5110,Area,6671,Agriculture area under organic agric.,2020,2020,1000 ha,9.36,I,Value imputed by a receiving agency
 RL,Land Use,44,Bahamas,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2022,2022,%,0.38,E,Estimated value
 RL,Land Use,524,Nepal,5110,Area,6671,Agriculture area under organic agric.,2021,2021,1000 ha,2.4477,I,Value imputed by a receiving agency
-RL,Land Use,384,Côte d'Ivoire,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2023,2023,%,0.38,E,Estimated value
+RL,Land Use,384,Ivory Coast,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2023,2023,%,0.38,E,Estimated value
 RL,Land Use,524,Nepal,5110,Area,6671,Agriculture area under organic agric.,2022,2022,1000 ha,25.776,I,Value imputed by a receiving agency
 RL,Land Use,430,Liberia,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2023,2023,%,0.38,E,Estimated value
 RL,Land Use,524,Nepal,5110,Area,6671,Agriculture area under organic agric.,2023,2023,1000 ha,16.9742,I,Value imputed by a receiving agency
@@ -1255,7 +1255,7 @@ RL,Land Use,68,Bolivia (Plurinational State of),7208,Share in Agricultural land,
 RL,Land Use,566,Nigeria,5110,Area,6671,Agriculture area under organic agric.,2021,2021,1000 ha,58.0282,I,Value imputed by a receiving agency
 RL,Land Use,68,Bolivia (Plurinational State of),7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2023,2023,%,0.3,E,Estimated value
 RL,Land Use,566,Nigeria,5110,Area,6671,Agriculture area under organic agric.,2022,2022,1000 ha,64.252,I,Value imputed by a receiving agency
-RL,Land Use,384,Côte d'Ivoire,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2020,2020,%,0.3,E,Estimated value
+RL,Land Use,384,Ivory Coast,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2020,2020,%,0.3,E,Estimated value
 RL,Land Use,566,Nigeria,5110,Area,6671,Agriculture area under organic agric.,2023,2023,1000 ha,157.0189,I,Value imputed by a receiving agency
 RL,Land Use,748,Eswatini,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2021,2021,%,0.3,E,Estimated value
 RL,Land Use,566,Nigeria,5110,Area,6672,Agriculture area certified organic,2020,2020,1000 ha,55,I,Value imputed by a receiving agency
@@ -1267,27 +1267,27 @@ RL,Land Use,288,Ghana,7208,Share in Agricultural land,6671,Agriculture area unde
 RL,Land Use,570,Niue,5110,Area,6671,Agriculture area under organic agric.,2021,2021,1000 ha,0.117,I,Value imputed by a receiving agency
 RL,Land Use,586,Pakistan,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2023,2023,%,0.3,E,Estimated value
 RL,Land Use,570,Niue,5110,Area,6671,Agriculture area under organic agric.,2022,2022,1000 ha,0.117,I,Value imputed by a receiving agency
-RL,Land Use,643,Russian Federation,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2021,2021,%,0.3,E,Estimated value
+RL,Land Use,643,Russia,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2021,2021,%,0.3,E,Estimated value
 RL,Land Use,570,Niue,5110,Area,6671,Agriculture area under organic agric.,2023,2023,1000 ha,0.117,I,Value imputed by a receiving agency
-RL,Land Use,384,Côte d'Ivoire,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2021,2021,%,0.29,E,Estimated value
+RL,Land Use,384,Ivory Coast,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2021,2021,%,0.29,E,Estimated value
 RL,Land Use,570,Niue,5110,Area,6672,Agriculture area certified organic,2020,2020,1000 ha,0.043,I,Value imputed by a receiving agency
 RL,Land Use,570,Niue,5110,Area,6672,Agriculture area certified organic,2021,2021,1000 ha,0.117,I,Value imputed by a receiving agency
 RL,Land Use,570,Niue,5110,Area,6672,Agriculture area certified organic,2022,2022,1000 ha,0.117,I,Value imputed by a receiving agency
 RL,Land Use,570,Niue,5110,Area,6672,Agriculture area certified organic,2023,2023,1000 ha,0.117,I,Value imputed by a receiving agency
-RL,Land Use,807,North Macedonia,5110,Area,6671,Agriculture area under organic agric.,2020,2020,1000 ha,3.72,A,Official figure
-RL,Land Use,384,Côte d'Ivoire,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2022,2022,%,0.29,E,Estimated value
-RL,Land Use,807,North Macedonia,5110,Area,6671,Agriculture area under organic agric.,2021,2021,1000 ha,7.79,A,Official figure
+RL,Land Use,807,Macedonia,5110,Area,6671,Agriculture area under organic agric.,2020,2020,1000 ha,3.72,A,Official figure
+RL,Land Use,384,Ivory Coast,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2022,2022,%,0.29,E,Estimated value
+RL,Land Use,807,Macedonia,5110,Area,6671,Agriculture area under organic agric.,2021,2021,1000 ha,7.79,A,Official figure
 RL,Land Use,417,Kyrgyzstan,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2020,2020,%,0.29,E,Estimated value
-RL,Land Use,807,North Macedonia,5110,Area,6671,Agriculture area under organic agric.,2022,2022,1000 ha,8.724,X,Figure from external organization
+RL,Land Use,807,Macedonia,5110,Area,6671,Agriculture area under organic agric.,2022,2022,1000 ha,8.724,X,Figure from external organization
 RL,Land Use,417,Kyrgyzstan,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2021,2021,%,0.29,E,Estimated value
-RL,Land Use,807,North Macedonia,5110,Area,6671,Agriculture area under organic agric.,2023,2023,1000 ha,8.322,A,Official figure
-RL,Land Use,807,North Macedonia,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2020,2020,%,0.29,A,Official figure
-RL,Land Use,807,North Macedonia,5110,Area,6672,Agriculture area certified organic,2020,2020,1000 ha,2.01,A,Official figure
-RL,Land Use,807,North Macedonia,5110,Area,6672,Agriculture area certified organic,2021,2021,1000 ha,5.91,A,Official figure
-RL,Land Use,807,North Macedonia,5110,Area,6672,Agriculture area certified organic,2022,2022,1000 ha,6.594,X,Figure from external organization
-RL,Land Use,807,North Macedonia,5110,Area,6672,Agriculture area certified organic,2023,2023,1000 ha,5.848,A,Official figure
+RL,Land Use,807,Macedonia,5110,Area,6671,Agriculture area under organic agric.,2023,2023,1000 ha,8.322,A,Official figure
+RL,Land Use,807,Macedonia,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2020,2020,%,0.29,A,Official figure
+RL,Land Use,807,Macedonia,5110,Area,6672,Agriculture area certified organic,2020,2020,1000 ha,2.01,A,Official figure
+RL,Land Use,807,Macedonia,5110,Area,6672,Agriculture area certified organic,2021,2021,1000 ha,5.91,A,Official figure
+RL,Land Use,807,Macedonia,5110,Area,6672,Agriculture area certified organic,2022,2022,1000 ha,6.594,X,Figure from external organization
+RL,Land Use,807,Macedonia,5110,Area,6672,Agriculture area certified organic,2023,2023,1000 ha,5.848,A,Official figure
 RL,Land Use,578,Norway,5110,Area,6671,Agriculture area under organic agric.,2020,2020,1000 ha,45.18,A,Official figure
-RL,Land Use,643,Russian Federation,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2020,2020,%,0.29,E,Estimated value
+RL,Land Use,643,Russia,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2020,2020,%,0.29,E,Estimated value
 RL,Land Use,578,Norway,5110,Area,6671,Agriculture area under organic agric.,2021,2021,1000 ha,44.93,A,Official figure
 RL,Land Use,646,Rwanda,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2023,2023,%,0.29,E,Estimated value
 RL,Land Use,578,Norway,5110,Area,6671,Agriculture area under organic agric.,2022,2022,1000 ha,46,A,Official figure
@@ -1469,17 +1469,17 @@ RL,Land Use,642,Romania,5110,Area,6672,Agriculture area certified organic,2020,2
 RL,Land Use,642,Romania,5110,Area,6672,Agriculture area certified organic,2021,2021,1000 ha,344.5,A,Official figure
 RL,Land Use,642,Romania,5110,Area,6672,Agriculture area certified organic,2022,2022,1000 ha,422.8,A,Official figure
 RL,Land Use,642,Romania,5110,Area,6672,Agriculture area certified organic,2023,2023,1000 ha,521.5,A,Official figure
-RL,Land Use,643,Russian Federation,5110,Area,6671,Agriculture area under organic agric.,2020,2020,1000 ha,615,I,Value imputed by a receiving agency
+RL,Land Use,643,Russia,5110,Area,6671,Agriculture area under organic agric.,2020,2020,1000 ha,615,I,Value imputed by a receiving agency
 RL,Land Use,400,Jordan,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2020,2020,%,0.14,E,Estimated value
-RL,Land Use,643,Russian Federation,5110,Area,6671,Agriculture area under organic agric.,2021,2021,1000 ha,655,I,Value imputed by a receiving agency
+RL,Land Use,643,Russia,5110,Area,6671,Agriculture area under organic agric.,2021,2021,1000 ha,655,I,Value imputed by a receiving agency
 RL,Land Use,400,Jordan,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2021,2021,%,0.14,E,Estimated value
-RL,Land Use,643,Russian Federation,5110,Area,6671,Agriculture area under organic agric.,2022,2022,1000 ha,187,I,Value imputed by a receiving agency
+RL,Land Use,643,Russia,5110,Area,6671,Agriculture area under organic agric.,2022,2022,1000 ha,187,I,Value imputed by a receiving agency
 RL,Land Use,400,Jordan,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2022,2022,%,0.14,E,Estimated value
-RL,Land Use,643,Russian Federation,5110,Area,6671,Agriculture area under organic agric.,2023,2023,1000 ha,96.5758,I,Value imputed by a receiving agency
+RL,Land Use,643,Russia,5110,Area,6671,Agriculture area under organic agric.,2023,2023,1000 ha,96.5758,I,Value imputed by a receiving agency
 RL,Land Use,400,Jordan,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2023,2023,%,0.14,E,Estimated value
-RL,Land Use,643,Russian Federation,5110,Area,6672,Agriculture area certified organic,2021,2021,1000 ha,94,I,Value imputed by a receiving agency
-RL,Land Use,643,Russian Federation,5110,Area,6672,Agriculture area certified organic,2022,2022,1000 ha,94,I,Value imputed by a receiving agency
-RL,Land Use,643,Russian Federation,5110,Area,6672,Agriculture area certified organic,2023,2023,1000 ha,91.8206,I,Value imputed by a receiving agency
+RL,Land Use,643,Russia,5110,Area,6672,Agriculture area certified organic,2021,2021,1000 ha,94,I,Value imputed by a receiving agency
+RL,Land Use,643,Russia,5110,Area,6672,Agriculture area certified organic,2022,2022,1000 ha,94,I,Value imputed by a receiving agency
+RL,Land Use,643,Russia,5110,Area,6672,Agriculture area certified organic,2023,2023,1000 ha,91.8206,I,Value imputed by a receiving agency
 RL,Land Use,646,Rwanda,5110,Area,6671,Agriculture area under organic agric.,2020,2020,1000 ha,5.19,I,Value imputed by a receiving agency
 RL,Land Use,430,Liberia,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2022,2022,%,0.14,E,Estimated value
 RL,Land Use,646,Rwanda,5110,Area,6671,Agriculture area under organic agric.,2021,2021,1000 ha,4.6964,I,Value imputed by a receiving agency
@@ -1508,7 +1508,7 @@ RL,Land Use,398,Kazakhstan,7208,Share in Agricultural land,6671,Agriculture area
 RL,Land Use,882,Samoa,5110,Area,6671,Agriculture area under organic agric.,2022,2022,1000 ha,47.171,I,Value imputed by a receiving agency
 RL,Land Use,566,Nigeria,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2022,2022,%,0.09,E,Estimated value
 RL,Land Use,882,Samoa,5110,Area,6671,Agriculture area under organic agric.,2023,2023,1000 ha,41.307,I,Value imputed by a receiving agency
-RL,Land Use,643,Russian Federation,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2022,2022,%,0.09,E,Estimated value
+RL,Land Use,643,Russia,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2022,2022,%,0.09,E,Estimated value
 RL,Land Use,882,Samoa,5110,Area,6672,Agriculture area certified organic,2020,2020,1000 ha,40.992,I,Value imputed by a receiving agency
 RL,Land Use,882,Samoa,5110,Area,6672,Agriculture area certified organic,2021,2021,1000 ha,40.992,I,Value imputed by a receiving agency
 RL,Land Use,882,Samoa,5110,Area,6672,Agriculture area certified organic,2022,2022,1000 ha,40.992,I,Value imputed by a receiving agency
@@ -1633,7 +1633,7 @@ RL,Land Use,710,South Africa,5110,Area,6672,Agriculture area certified organic,2
 RL,Land Use,710,South Africa,5110,Area,6672,Agriculture area certified organic,2022,2022,1000 ha,91.7673,I,Value imputed by a receiving agency
 RL,Land Use,710,South Africa,5110,Area,6672,Agriculture area certified organic,2023,2023,1000 ha,37.3543,I,Value imputed by a receiving agency
 RL,Land Use,724,Spain,5110,Area,6671,Agriculture area under organic agric.,2020,2020,1000 ha,2437.9,A,Official figure
-RL,Land Use,643,Russian Federation,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2023,2023,%,0.04,E,Estimated value
+RL,Land Use,643,Russia,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2023,2023,%,0.04,E,Estimated value
 RL,Land Use,724,Spain,5110,Area,6671,Agriculture area under organic agric.,2021,2021,1000 ha,2799.151,A,Official figure
 RL,Land Use,686,Senegal,7208,Share in Agricultural land,6671,Agriculture area under organic agric.,2020,2020,%,0.04,E,Estimated value
 RL,Land Use,724,Spain,5110,Area,6671,Agriculture area under organic agric.,2022,2022,1000 ha,2843.6122,A,Official figure
